@@ -9,14 +9,12 @@
 ```text
 ┌───────────────────────────────────────────────────────┐
 │                                                       │
-│   ███╗   ███╗ █████╗ ████████╗                       │
-│   ████╗ ████║██╔══██╗╚══██╔══╝                       │
-│   ██╔████╔██║███████║   ██║                          │
-│   ██║╚██╔╝██║██╔══██║   ██║                          │
-│   ██║ ╚═╝ ██║██║  ██║   ██║                          │
-│   ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝                          │
-│                                                       │
-│        > building things one commit at a time         │
+│             ███╗   ███╗ █████╗ ████████╗              │
+│             ████╗ ████║██╔══██╗╚══██╔══╝              │
+│             ██╔████╔██║███████║   ██║                 │
+│             ██║╚██╔╝██║██╔══██║   ██║                 │
+│             ██║ ╚═╝ ██║██║  ██║   ██║                 │
+│             ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝                 │
 │                                                       │
 └───────────────────────────────────────────────────────┘
 ```
@@ -161,18 +159,6 @@ Responsive administration interface for an e-commerce system.
 ```
 
 Designed for both desktop and mobile interfaces.
-
----
-
-## `$ git stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=soyMat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyMat&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
-
-</div>
 
 ---
 

@@ -1,66 +1,201 @@
+<div align="center">
+
+# `soyMat`
+
+### software development · linux · web · learning
+
+<img src="./assets/typing.gif" width="520"/>
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│   ███╗   ███╗ █████╗ ████████╗                       │
+│   ████╗ ████║██╔══██╗╚══██╔══╝                       │
+│   ██╔████╔██║███████║   ██║                          │
+│   ██║╚██╔╝██║██╔══██║   ██║                          │
+│   ██║ ╚═╝ ██║██║  ██║   ██║                          │
+│   ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝                          │
+│                                                       │
+│        > building things one commit at a time         │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `$ whoami`
+
+```bash
+mateo@fedora:~$ whoami
+Mateo Mazuela
+
+mateo@fedora:~$ cat about.txt
+> Software development student
+> Interested in web development, backend and systems
+> Linux user
+> Currently learning and building new projects
+```
+
+I like understanding what happens **behind the interface**, from the UI a user interacts with to the logic, networking and data underneath it.
+
+Currently focused on improving my skills through university projects and personal experimentation.
+
+---
+
+## `$ ls ./stack`
+
+<div align="center">
+
+### Main
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,django,java,postgres&theme=dark" />
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vite,vscode,linux,bash&theme=dark" />
+
+</div>
+
+```text
+frontend/
+├── React
+├── JavaScript
+├── HTML
+├── CSS
+├── Tailwind CSS
+└── Vite
+
+backend/
 ├── Python
-├── TCP Sockets
-├── Multithreading
-├── SSL / TLS
-└── SQLite
-
-Currently expanding
 ├── Django
-├── SSL / TLS
-├── PostgreSQL
-└── SQLite
-└── Java
+├── Java
+└── PostgreSQL
+
+environment/
+├── Fedora Linux
+├── Git
+├── GitHub
+├── Bash
+└── VS Code
 ```
 
 ---
 
+## `$ cat interests.txt`
 
-## `$ github-stats`
+```yaml
+interests:
+  - full-stack development
+  - web interfaces
+  - backend development
+  - linux
+  - networking
+  - software architecture
+  - cybersecurity basics
+  - learning how things work internally
+```
+
+---
+
+## `$ ls ./projects`
+
+### 🛒 E-Commerce Web
+
+**React · Vite · Tailwind CSS · REST API**
+
+SPA developed as a university Web Development project.
+
+```text
+✓ Product catalog
+✓ Categories & filters
+✓ Shopping cart
+✓ Checkout flow
+✓ Administration panel
+✓ API integration
+✓ Responsive interface
+```
+
+---
+
+### 🖥️ Remote Shell
+
+**Python · TCP Sockets · TLS · SQLite · Multithreading**
+
+Client/server remote shell developed in Python.
+
+```text
+client
+   │
+   │ TLS / TCP
+   ▼
+server
+   ├── authentication
+   ├── command execution
+   ├── filesystem restrictions
+   ├── multiple clients
+   └── SQLite users
+```
+
+Includes authentication, password hashing, encrypted communication and path traversal protection.
+
+---
+
+### 🧊 Austral Market
+
+**React · Vite · Tailwind CSS**
+
+Responsive administration interface for an e-commerce system.
+
+```text
+[ login ]
+
+     ↓
+
+[ products ]
+     ├── create
+     ├── edit
+     ├── delete
+     └── inspect
+```
+
+Designed for both desktop and mobile interfaces.
+
+---
+
+## `$ git stats`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=soyMat&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=soyMat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyMat&layout=compact&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyMat&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
 
 </div>
 
 ---
 
-## `$ activity`
+## `$ git log --oneline`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soyMat&theme=github-dark&hide_border=true" />
-
-</div>
-
----
-
-## `$ currently`
-
-```python
-current_focus = {
-    "frontend": ["React", "JavaScript"],
-    "backend": ["Python", "Django"],
-    "database": ["PostgreSQL"],
-    "language": ["Java"],
-    "environment": ["Fedora Linux"],
-}
-
-while True:
-    learn()
-    build()
-    improve()
+```text
+[ NOW ] learning more about software engineering
+[ + ]   improving full-stack development
+[ + ]   building projects instead of only watching tutorials
+[ + ]   getting deeper into Linux
+[ ... ] more coming soon
 ```
 
 ---
 
 <div align="center">
 
-### `learning • building • improving`
+```text
+「 code · learn · break · understand · rebuild 」
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=soyMat\&style=flat-square)
+### `Thanks for visiting.`
+
+![Profile Views](https://komarev.com/ghpvc/?username=soyMat\&style=flat-square\&color=grey\&label=PROFILE+VIEWS)
 
 </div>
-```
